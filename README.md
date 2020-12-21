@@ -5,6 +5,10 @@ Therefore, A* is guaranteed to find a shortest path. Other heuristic methods hav
 
 ## Requirements
 Visit [requirements.txt file](requirements.txt)
+After cloning the repository, to install the requirements easily run the following command
+```
+pip install -r requirements.txt
+```
 
 ## How to run
 After installing the necessary requirements listed in requirements.txt, run the following command
