@@ -8,6 +8,7 @@
 
 This A* Path Finding visualizer writting in Python 3 is designed with pygame and uses the manhattan distance for calculating the heuristic.
 Therefore, A* is guaranteed to find a shortest path. Other heuristic methods have proven better but manhattan distance is very simple which is why I used it.
+A big thanks to Tech With Tim for the video and the inspiration to do this project
 
 ## Requirements
 Visit [requirements.txt file](requirements.txt)
