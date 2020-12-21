@@ -23,3 +23,15 @@ Or depending on your operating system, you might have to run
 ```
 python3 path.py
 ```
+
+## How to use the program
+- After running the command found in the 'How to run' section above, a pygame window will appear
+- Your first click will be the start node and your second click will be the end node
+- These two nodes are specified by their color
+- Start = blue
+- End = purple
+- Any other left click after the first two clicks, renders a wall on the grid (a node in which A* will not consider)
+- If you made a mistake or want to clear a node, you simply right click on the node
+
+- To start A* path finder, simply press the space bar
+- To reset the grid, simply press backspace
