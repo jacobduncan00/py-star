@@ -9,6 +9,10 @@ After cloning the repository, to install the requirements easily run the followi
 ```
 pip install -r requirements.txt
 ```
+Or depending on your operating system, you might have to run 
+```
+pip3 install -r requirements.txt
+```
 
 ## How to run
 After installing the necessary requirements listed in requirements.txt, run the following command
